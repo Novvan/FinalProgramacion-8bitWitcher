@@ -41,3 +41,15 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Terrain
+    uniqueID: 1498392867
+    locked: 0
+  - name: Decor
+    uniqueID: 2341156355
+    locked: 0
+  - name: Collisions
+    uniqueID: 1355408751
+    locked: 0
+  - name: Player
+    uniqueID: 1155335973
+    locked: 0
