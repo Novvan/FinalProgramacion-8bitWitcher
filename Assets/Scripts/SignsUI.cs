@@ -1,18 +1,17 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class SignsUI : MonoBehaviour
 {
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
+//    private Image content;
+//    public float MyMaxCD { get; set; }
+//    private float CurrentCD;
+//    
+//    public float MyCurrentCD
+//    {
+//        get { return CurrentCD; }
+//        set { CurrentCD = value; }
+//    }
 }
