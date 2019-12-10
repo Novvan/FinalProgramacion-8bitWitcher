@@ -1,0 +1,2791 @@
+fileFormatVersion: 2
+guid: 9a463a4cf8e0b9e4e964fb79a1bf9682
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1035351187910004398
+    second: Geralt_0
+  - first:
+      213: -805913234213660856
+    second: Geralt_1
+  - first:
+      213: 8623497960179756756
+    second: Geralt_2
+  - first:
+      213: -1702312329212966741
+    second: Geralt_3
+  - first:
+      213: -396113637365884003
+    second: Geralt_4
+  - first:
+      213: -6563280057787881422
+    second: Geralt_5
+  - first:
+      213: -3104933354614376635
+    second: Geralt_6
+  - first:
+      213: -2483095969368529421
+    second: Geralt_7
+  - first:
+      213: 7595199565530679074
+    second: Geralt_8
+  - first:
+      213: -3205757308026467598
+    second: Geralt_9
+  - first:
+      213: 8315880119979655746
+    second: Geralt_10
+  - first:
+      213: 8294134483707884489
+    second: Geralt_11
+  - first:
+      213: -9125724857076286560
+    second: Geralt_12
+  - first:
+      213: -5344278428584519669
+    second: Geralt_13
+  - first:
+      213: -1790985447232367317
+    second: Geralt_14
+  - first:
+      213: 492679044522562681
+    second: Geralt_15
+  - first:
+      213: -3884632803979483277
+    second: Geralt_16
+  - first:
+      213: 4513846847509036582
+    second: Geralt_17
+  - first:
+      213: -6253361536572503041
+    second: Geralt_18
+  - first:
+      213: 4601303640150738588
+    second: Geralt_19
+  - first:
+      213: 1519556988308165555
+    second: Geralt_20
+  - first:
+      213: -2498208418866137063
+    second: Geralt_21
+  - first:
+      213: 4269519540834714544
+    second: Geralt_22
+  - first:
+      213: -4176879950708285096
+    second: Geralt_23
+  - first:
+      213: -5637652735752940680
+    second: Geralt_24
+  - first:
+      213: 1396623549403576846
+    second: Geralt_25
+  - first:
+      213: 3874664045721347656
+    second: Geralt_26
+  - first:
+      213: -2007590139658627669
+    second: Geralt_27
+  - first:
+      213: 8676951423974687217
+    second: Geralt_28
+  - first:
+      213: -6238919608740187427
+    second: Geralt_29
+  - first:
+      213: 6497096027392479171
+    second: Geralt_30
+  - first:
+      213: -1694412069227159157
+    second: Geralt_31
+  - first:
+      213: -5323246268125821049
+    second: Geralt_32
+  - first:
+      213: 7013065005402076758
+    second: Geralt_33
+  - first:
+      213: 9222171018793650282
+    second: Geralt_34
+  - first:
+      213: 7387775638547671309
+    second: Geralt_35
+  - first:
+      213: 264926456981704954
+    second: Geralt_36
+  - first:
+      213: 2895238366863218482
+    second: Geralt_37
+  - first:
+      213: 3555651296815224140
+    second: Geralt_38
+  - first:
+      213: 4320858996988843949
+    second: Geralt_39
+  - first:
+      213: -4467628279858156529
+    second: Geralt_40
+  - first:
+      213: -228175447441428988
+    second: Geralt_41
+  - first:
+      213: -3133635820936764508
+    second: Geralt_42
+  - first:
+      213: -3855277998388815400
+    second: Geralt_43
+  - first:
+      213: -3858930962490612988
+    second: Geralt_44
+  - first:
+      213: 3936761718125289573
+    second: Geralt_45
+  - first:
+      213: 6794878044111654619
+    second: Geralt_46
+  - first:
+      213: -6383227074022580509
+    second: Geralt_47
+  - first:
+      213: 2859739460073324864
+    second: Geralt_48
+  - first:
+      213: 744908666112660077
+    second: Geralt_49
+  - first:
+      213: 4910629961710229754
+    second: Geralt_50
+  - first:
+      213: -167706119355345300
+    second: Geralt_51
+  - first:
+      213: 8087960673051444616
+    second: Geralt_52
+  - first:
+      213: -6218866589865764953
+    second: Geralt_53
+  - first:
+      213: 6602485352579383850
+    second: Geralt_54
+  - first:
+      213: 5131645943314583887
+    second: Geralt_55
+  - first:
+      213: -6509654149793808068
+    second: Geralt_56
+  - first:
+      213: -6632275618808336071
+    second: Geralt_57
+  - first:
+      213: -7784769170164839948
+    second: Geralt_58
+  - first:
+      213: 5482897965010097008
+    second: Geralt_59
+  - first:
+      213: -243755396989818241
+    second: Geralt_60
+  - first:
+      213: 8038514518810587590
+    second: Geralt_61
+  - first:
+      213: -6026981373313467090
+    second: Geralt_62
+  - first:
+      213: -7594874443683296957
+    second: Geralt_63
+  - first:
+      213: 2300608006164659384
+    second: Geralt_64
+  - first:
+      213: -3016098582106495043
+    second: Geralt_65
+  - first:
+      213: -7358017638690874574
+    second: Geralt_66
+  - first:
+      213: 5772486807764929903
+    second: Geralt_67
+  - first:
+      213: -6024425935842460899
+    second: Geralt_68
+  - first:
+      213: -103662412656300725
+    second: Geralt_69
+  - first:
+      213: 6838007804474612627
+    second: Geralt_70
+  - first:
+      213: 705866137016443662
+    second: Geralt_71
+  - first:
+      213: -818566088815086074
+    second: Geralt_72
+  - first:
+      213: 2220356223835101183
+    second: Geralt_73
+  - first:
+      213: -7186664058338648654
+    second: Geralt_74
+  - first:
+      213: 203384445952085338
+    second: Geralt_75
+  - first:
+      213: 3089512908054080788
+    second: Geralt_76
+  - first:
+      213: -7471195364618348276
+    second: Geralt_77
+  - first:
+      213: 7487202852719397704
+    second: Geralt_78
+  - first:
+      213: 7505980566391862595
+    second: Geralt_79
+  - first:
+      213: -7280779764542136399
+    second: Geralt_80
+  - first:
+      213: 774847467452347489
+    second: Geralt_81
+  - first:
+      213: 4683304586520853224
+    second: Geralt_82
+  - first:
+      213: -4294404168601313212
+    second: Geralt_83
+  - first:
+      213: 1570045618182284120
+    second: Geralt_84
+  - first:
+      213: 2952156866403440249
+    second: Geralt_85
+  - first:
+      213: 7507692556329049960
+    second: Geralt_86
+  - first:
+      213: 3316986263331084884
+    second: Geralt_87
+  - first:
+      213: -8727554947612981937
+    second: Geralt_88
+  - first:
+      213: -5004898612336012299
+    second: Geralt_89
+  - first:
+      213: -1080640827822730384
+    second: Geralt_90
+  - first:
+      213: -6511774801045204643
+    second: Geralt_91
+  - first:
+      213: 548634884679866315
+    second: Geralt_92
+  - first:
+      213: -5482793218904529469
+    second: Geralt_93
+  - first:
+      213: 8200415963368558190
+    second: Geralt_94
+  - first:
+      213: -2582635260499576473
+    second: Geralt_95
+  - first:
+      213: 5054878272802829290
+    second: Geralt_96
+  - first:
+      213: 6087809520898910481
+    second: Geralt_97
+  - first:
+      213: -4928471119877761671
+    second: Geralt_98
+  - first:
+      213: 6127645871646231748
+    second: Geralt_99
+  - first:
+      213: 624736407585702737
+    second: Geralt_100
+  - first:
+      213: -4923369170301381772
+    second: Geralt_101
+  - first:
+      213: 3135371935289502482
+    second: Geralt_102
+  - first:
+      213: 3845855106839295211
+    second: Geralt_103
+  - first:
+      213: 6153533807448698833
+    second: Geralt_104
+  - first:
+      213: -1255915140650659168
+    second: Geralt_105
+  - first:
+      213: 8032399516277893225
+    second: Geralt_106
+  - first:
+      213: -1438314277747947234
+    second: Geralt_107
+  - first:
+      213: 1280060791727397119
+    second: Geralt_108
+  - first:
+      213: 5556289873009926222
+    second: Geralt_109
+  - first:
+      213: -1662993952510820868
+    second: Geralt_110
+  - first:
+      213: -5325238964130615586
+    second: Geralt_111
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Geralt_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 220
+        width: 16
+        height: 22
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a9c6eccb910c364482013e3ea8914a2
+      internalID: -1035351187910004398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_1
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 222
+        width: 16
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad8d5b844896c77498ea298e0fb73f04
+      internalID: -805913234213660856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_2
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 220
+        width: 16
+        height: 22
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce1a17cc799f51444be0e6238985a108
+      internalID: 8623497960179756756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_3
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 222
+        width: 16
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 498f7877d070e2d41879881bad764e39
+      internalID: -1702312329212966741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_4
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 222
+        width: 14
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bc7dffd2b1f60844998c99c854446fa
+      internalID: -396113637365884003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_5
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 222
+        width: 14
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9496350a038c004da931c1f277f8c4c
+      internalID: -6563280057787881422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_6
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 222
+        width: 14
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b32eaa3ae449e9e49af5dcb411267f45
+      internalID: -3104933354614376635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_7
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 222
+        width: 14
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61a6d7e56933aab489f7a093a15f9339
+      internalID: -2483095969368529421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_8
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 220
+        width: 16
+        height: 22
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2fd215e3874377499a4686f3858c234
+      internalID: 7595199565530679074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_9
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 222
+        width: 16
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 563025fdeb9ffbe4d949d4b6d7c082f7
+      internalID: -3205757308026467598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_10
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 220
+        width: 16
+        height: 22
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 101bd6828fc50c742ac3c7a6e6e30086
+      internalID: 8315880119979655746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_11
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 222
+        width: 16
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df918f0cfd97f3d48bfbd9be032950f2
+      internalID: 8294134483707884489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_12
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 222
+        width: 14
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 785dd6d9cc7bc2142ba0c32c5057fc62
+      internalID: -9125724857076286560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_13
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 222
+        width: 14
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c9943cfe2b56a042aa880f2d1dac08a
+      internalID: -5344278428584519669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_14
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 222
+        width: 14
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4480f2de2df7de442ad7443a32ffd338
+      internalID: -1790985447232367317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_15
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 222
+        width: 14
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5025fd89a2ea72479b1b992fdb3fc24
+      internalID: 492679044522562681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_16
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 192
+        width: 16
+        height: 22
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7fa4a6474f295a4589f1f7c91b9162b
+      internalID: -3884632803979483277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_17
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 194
+        width: 16
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4a3e49717c99a648b65df6c7074700f
+      internalID: 4513846847509036582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_18
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 192
+        width: 16
+        height: 22
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bae07af6123d7904daec6bc95c984685
+      internalID: -6253361536572503041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_19
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 194
+        width: 16
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bcbcc31ee6de8c4085af4f710d96815
+      internalID: 4601303640150738588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_20
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 194
+        width: 14
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92958aaf628fe7441adafe82e28421f8
+      internalID: 1519556988308165555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_21
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 194
+        width: 14
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 419741554637c1e499e5e2556c4e31ed
+      internalID: -2498208418866137063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_22
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 194
+        width: 14
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 875f93ca89c3aef41a2cb0535d07b553
+      internalID: 4269519540834714544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_23
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 194
+        width: 14
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75bc6bb64cdb90b40a969686b1200347
+      internalID: -4176879950708285096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_24
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 191
+        width: 16
+        height: 22
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 517d76f3ebe82ca48b5812884ddcd069
+      internalID: -5637652735752940680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_25
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 193
+        width: 16
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f982d5c4600b4d24a9c4826696e87ae7
+      internalID: 1396623549403576846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_26
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 191
+        width: 16
+        height: 22
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17252c63a6ecf22479646895f4f186c4
+      internalID: 3874664045721347656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_27
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 193
+        width: 16
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc5f9e63f43d47b4482b6d2dd56e392c
+      internalID: -2007590139658627669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_28
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 193
+        width: 14
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cb0da3e5b0546942a5944bb0f894418
+      internalID: 8676951423974687217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_29
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 193
+        width: 14
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ac7434db1916c74ebab62372cebd125
+      internalID: -6238919608740187427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_30
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 193
+        width: 14
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e093da6c32f82b64d89b2f54214ac757
+      internalID: 6497096027392479171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_31
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 193
+        width: 14
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a57045e0f40c5754ab81d1b53b8b2799
+      internalID: -1694412069227159157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_32
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 163
+        width: 17
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44608e9e2a9054343b2944da994605e2
+      internalID: -5323246268125821049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_33
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 161
+        width: 16
+        height: 22
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97e80d61ea478bd46a69006743e99c83
+      internalID: 7013065005402076758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_34
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 159
+        width: 16
+        height: 24
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 370b221f5a15c0f41b6b5b2419d0027d
+      internalID: 9222171018793650282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_35
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 159
+        width: 16
+        height: 24
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c04d7e871f45ac5418a2ceef1f1b8cfe
+      internalID: 7387775638547671309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_36
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 163
+        width: 35
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f81f11b6f5961e34da94c746b7f98455
+      internalID: 264926456981704954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_37
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 164
+        width: 16
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 479b18698760a5a4dab59a46fab65dbd
+      internalID: 2895238366863218482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_38
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 164
+        width: 16
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9e8f8172df4c9e4ab89f19b0f3fcc51
+      internalID: 3555651296815224140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_39
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 131
+        width: 17
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 781fa64d79b99804baa409ca37aa3de5
+      internalID: 4320858996988843949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_40
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 131
+        width: 21
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 080783961ec86484aa13e2dd608dee5e
+      internalID: -4467628279858156529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_41
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 132
+        width: 16
+        height: 19
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 167d940e0becb444f927fd79fa7c2886
+      internalID: -228175447441428988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_42
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 132
+        width: 16
+        height: 19
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52bf866cbe6de174cb939229393610ca
+      internalID: -3133635820936764508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_43
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 132
+        width: 14
+        height: 22
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54e47287ff44115449a74e90262cde1d
+      internalID: -3855277998388815400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_44
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 132
+        width: 21
+        height: 22
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98398fdd73e5cc14aa6cfdb200b01497
+      internalID: -3858930962490612988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_45
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 134
+        width: 19
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 734054de725d1484881270f29dd56e28
+      internalID: 3936761718125289573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_46
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 134
+        width: 19
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78077c58625823b45ae92ea777ad7843
+      internalID: 6794878044111654619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_47
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 132
+        width: 22
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c337ab9d9043d2e4eb57e1ce60b10ff6
+      internalID: -6383227074022580509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_48
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 94
+        width: 16
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b8d77fb76786fc459db8b2e5d6c37a2
+      internalID: 2859739460073324864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_49
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 93
+        width: 16
+        height: 21
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36a259ca819e7e145aa9c68fbe0f756c
+      internalID: 744908666112660077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_50
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 92
+        width: 16
+        height: 22
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 826a774766b6d4143855d27859f5dc36
+      internalID: 4910629961710229754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_51
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 91
+        width: 16
+        height: 23
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa6ab2cbf85fad04aad122ec1db76bb6
+      internalID: -167706119355345300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_52
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 94
+        width: 16
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00e085e4a9915e54a955cdc3d3e4b1e0
+      internalID: 8087960673051444616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_53
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 93
+        width: 16
+        height: 21
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 409c03a94907fcb46bca18337d5ef3e2
+      internalID: -6218866589865764953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_54
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 92
+        width: 16
+        height: 22
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 291ad022119771945bdf3a43c009c61e
+      internalID: 6602485352579383850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_55
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 91
+        width: 16
+        height: 23
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e80501db32374534abf6a8c2e17fd3bd
+      internalID: 5131645943314583887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_56
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 94
+        width: 16
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fe21efa3b3cc9d48a557c3f732b8c6a
+      internalID: -6509654149793808068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_57
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 93
+        width: 16
+        height: 21
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb40f05fbef65164cb2fb028fc5fc0c6
+      internalID: -6632275618808336071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_58
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 92
+        width: 16
+        height: 22
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 592585aa89afaf24e8007727589c0106
+      internalID: -7784769170164839948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_59
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 91
+        width: 16
+        height: 23
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e79a1ed120f6a2e4486f7648e12d2808
+      internalID: 5482897965010097008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_60
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 94
+        width: 16
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1a7b1a660f3c0d45a92392b1231c5bf
+      internalID: -243755396989818241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_61
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 93
+        width: 16
+        height: 21
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b81d97eb9b135724a96bf2516549979b
+      internalID: 8038514518810587590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_62
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 92
+        width: 16
+        height: 22
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a024d257110dd0747893760ce44c4394
+      internalID: -6026981373313467090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_63
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 91
+        width: 16
+        height: 23
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 719f5f94c3a9ed841b39845b8e03bced
+      internalID: -7594874443683296957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_64
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 66
+        width: 14
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7ffc0361a2438247a3ac6bc0402f979
+      internalID: 2300608006164659384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_65
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 64
+        width: 17
+        height: 22
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90dd08713aba0a5499d9cab600760f5f
+      internalID: -3016098582106495043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_66
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 66
+        width: 18
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a15890fe610c094b939a4f07918b322
+      internalID: -7358017638690874574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_67
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 66
+        width: 14
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be30ce398dbb0304cb55f148618b147b
+      internalID: 5772486807764929903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_68
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 66
+        width: 14
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7055da00b5ed9eb42960f6f133754664
+      internalID: -6024425935842460899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_69
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 64
+        width: 17
+        height: 22
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d13a178a17a499b4d8efedaa9f9767da
+      internalID: -103662412656300725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_70
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 66
+        width: 18
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbc7eca16da606444b6b7315bec69849
+      internalID: 6838007804474612627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_71
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 66
+        width: 14
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b560169630525b4bb910351f821f001
+      internalID: 705866137016443662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_72
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 66
+        width: 14
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84c994c1900e83a4c94ab294035875fb
+      internalID: -818566088815086074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_73
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 64
+        width: 17
+        height: 22
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8db005c78e460a341b93012addf6df43
+      internalID: 2220356223835101183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_74
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 66
+        width: 18
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fb623439613f924fb02acbc6f38524d
+      internalID: -7186664058338648654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_75
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 66
+        width: 14
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d869c1b179830545840f0aba68966cd
+      internalID: 203384445952085338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_76
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 66
+        width: 14
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad690c8f8bda9804881934e6d33e242d
+      internalID: 3089512908054080788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_77
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 64
+        width: 17
+        height: 22
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 707f9c63279304a4081c1a386e455fd9
+      internalID: -7471195364618348276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_78
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 66
+        width: 18
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84524ab7b7c4644489be592e07743da5
+      internalID: 7487202852719397704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_79
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 66
+        width: 14
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5634317c0aab152419b2cb2c374b69ac
+      internalID: 7505980566391862595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_80
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 38
+        width: 16
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d985c0568c31c6448945743486c00ade
+      internalID: -7280779764542136399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_81
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 39
+        width: 16
+        height: 19
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6e08be2436a7504b96bc38d374a8e2e
+      internalID: 774847467452347489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_82
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 39
+        width: 16
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22545be4c279df044882c46634a3ed34
+      internalID: 4683304586520853224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_83
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 39
+        width: 16
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22fc46533822a9e4f92bce12944d1a44
+      internalID: -4294404168601313212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_84
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 38
+        width: 16
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b601e2a010116bf40a3b3fcfb7f397fb
+      internalID: 1570045618182284120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_85
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 39
+        width: 16
+        height: 19
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcf0de8adcc58194f9ae2a9c0cc0dfa7
+      internalID: 2952156866403440249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_86
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 39
+        width: 16
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db748ffc05aba4244b0013df01d9e231
+      internalID: 7507692556329049960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_87
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 39
+        width: 16
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80d6f88599cda3b4f962888db3da7574
+      internalID: 3316986263331084884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_88
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 38
+        width: 16
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cb23f91ab4c51f439629d803f9ad925
+      internalID: -8727554947612981937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_89
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 39
+        width: 16
+        height: 19
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de4cb86ed90d53644a285f3c196d3755
+      internalID: -5004898612336012299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_90
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 39
+        width: 16
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ff012bc5f21d564ea55ae56c896826f
+      internalID: -1080640827822730384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_91
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 39
+        width: 16
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9269fed139cda1f409b0d90189110f28
+      internalID: -6511774801045204643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_92
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 38
+        width: 16
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cef017e5447e604a9906d6f55a7d268
+      internalID: 548634884679866315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_93
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 39
+        width: 16
+        height: 19
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2135cab6ecf779f4388b6ee70d2839df
+      internalID: -5482793218904529469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_94
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 39
+        width: 16
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24a99cf5b966e6e4bbf27e8d96c359ba
+      internalID: 8200415963368558190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_95
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 39
+        width: 16
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5144984a2d2eedd4e96a4fa8cacf25ec
+      internalID: -2582635260499576473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_96
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 8
+        width: 14
+        height: 19
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 820c1c2a94a78334ab111e867df55dd0
+      internalID: 5054878272802829290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_97
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 8
+        width: 14
+        height: 19
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bf34a0c11c1f6a4bb837c348f9b8a32
+      internalID: 6087809520898910481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_98
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 8
+        width: 14
+        height: 19
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f9167eb4163fc34cad70925dc0f34eb
+      internalID: -4928471119877761671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_99
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 8
+        width: 15
+        height: 19
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8904f7a1ccab5cf46aeef46aa7dd2f22
+      internalID: 6127645871646231748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_100
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 8
+        width: 14
+        height: 19
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7acc20b96f4cfbd44bec83586c6ac017
+      internalID: 624736407585702737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_101
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 8
+        width: 14
+        height: 19
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fd6b32a5fb176944a9a8298aedd9fcd
+      internalID: -4923369170301381772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_102
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 8
+        width: 14
+        height: 19
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a93e3e445a6345b4f904f5dbee46784d
+      internalID: 3135371935289502482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_103
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 8
+        width: 15
+        height: 19
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cf8711a7d2439e48ace3b5f95a4c977
+      internalID: 3845855106839295211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_104
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 8
+        width: 14
+        height: 19
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a2e6c8226d6d7b4aa236ff0818ca4f2
+      internalID: 6153533807448698833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_105
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 8
+        width: 14
+        height: 19
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0dccfd51ad2c6545abe7c9319cddc40
+      internalID: -1255915140650659168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_106
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 8
+        width: 14
+        height: 19
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0653a649664e2fe499201f1c71b8f807
+      internalID: 8032399516277893225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_107
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 8
+        width: 15
+        height: 19
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba3c7e5a33ada304eab3fcaa0dd86fba
+      internalID: -1438314277747947234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_108
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 8
+        width: 14
+        height: 19
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33ea8d027ba1bd846a47d948ed90909a
+      internalID: 1280060791727397119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_109
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 8
+        width: 14
+        height: 19
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e741264b234c8a40b52366b7c515144
+      internalID: 5556289873009926222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_110
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 8
+        width: 14
+        height: 19
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a310195bec7f6124fb06f21dae31e762
+      internalID: -1662993952510820868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_111
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 8
+        width: 15
+        height: 19
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c6435f314c47bb4a8ea8ef0ddbcc702
+      internalID: -5325238964130615586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
