@@ -18,6 +18,9 @@ public class Character : MonoBehaviour
     private float currentStamina;
     private PlayerMovement pm;
     private Animator Animator;
+    public float signCost;
+    public float healthRegen;
+    public float staminaRegen;
 
     private void Start()
     {
@@ -29,35 +32,33 @@ public class Character : MonoBehaviour
 
     void Update()
     {
-        if (Input.GetKeyDown(KeyCode.I) && pm.currentState != PlayerState.quen)
+        if (Input.GetKeyDown(KeyCode.I) && pm.currentState != PlayerState.quen && Stamina.MyCurrentValue > signCost)
         {
             StartCoroutine(Quen());
-            Stamina.MyCurrentValue -= 5;
+            Stamina.MyCurrentValue -= signCost;
         }
-
-        if (Input.GetKeyDown(KeyCode.J) && pm.currentState != PlayerState.igni)
+        if (Input.GetKeyDown(KeyCode.J) && pm.currentState != PlayerState.igni && Stamina.MyCurrentValue > signCost)
         {
             StartCoroutine(Igni());
-            Stamina.MyCurrentValue -= 5;
+            Stamina.MyCurrentValue -= signCost;
         }
-
-        if (Input.GetKeyDown(KeyCode.K) && pm.currentState != PlayerState.aard)
+        if (Input.GetKeyDown(KeyCode.K) && pm.currentState != PlayerState.aard && Stamina.MyCurrentValue > signCost)
         {
             StartCoroutine(Aard());
-            Stamina.MyCurrentValue -= 5;
+            Stamina.MyCurrentValue -= signCost;
         }
-
-        if (Input.GetKeyDown(KeyCode.L) && pm.currentState != PlayerState.yrden)
+        if (Input.GetKeyDown(KeyCode.L) && pm.currentState != PlayerState.yrden && Stamina.MyCurrentValue > signCost)
         {
             StartCoroutine(Yrden());
-            Stamina.MyCurrentValue -= 5;
+            Stamina.MyCurrentValue -= signCost;
         }
-
         if (Input.GetButtonDown("attack") && pm.currentState != PlayerState.attack)
         {
             StartCoroutine(BasicAttack());
-            Stamina.MyCurrentValue -= 5;
         }
+
+        Health.MyCurrentValue += Time.deltaTime * healthRegen;
+        Stamina.MyCurrentValue += Time.deltaTime * staminaRegen ;
     }
 
 
