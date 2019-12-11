@@ -11,7 +11,7 @@ public class FillerHandler : MonoBehaviour
     private float currentFill;
     public float MyMaxValue { get; set; }
     private float currentValue;
-
+    
     public float MyCurrentValue
     {
         get { return currentValue; }
