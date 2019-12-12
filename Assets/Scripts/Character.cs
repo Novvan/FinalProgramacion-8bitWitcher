@@ -13,7 +13,7 @@ public class Character : MonoBehaviour
     [SerializeField] public Sprite[] sign;
 
     public float InitHealth;
-    private float CurrentHealth;
+    public float CurrentHealth;
     public float InitStamina;
     private float currentStamina;
     private PlayerMovement pm;

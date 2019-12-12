@@ -30,6 +30,17 @@ public class Enemy : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+     CheckHealth();   
     }
+
+
+private void CheckHealth(){
+    
+
+        if(health <= 0){
+            GameObject.Destroy(gameObject);
+        }
+    
+}
+
 }
