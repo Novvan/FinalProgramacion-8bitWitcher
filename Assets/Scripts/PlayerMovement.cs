@@ -2,6 +2,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.Experimental.TerrainAPI;
 
 public enum PlayerState
 {
@@ -33,8 +34,15 @@ public class PlayerMovement : MonoBehaviour
     private void Update()
     {
         change = Vector3.zero;
-        change.x = Input.GetAxisRaw("Horizontal");
-        change.y = Input.GetAxisRaw("Vertical");
+        if (Input.GetAxisRaw("Horizontal") != 0)
+        {
+            change.x = Input.GetAxisRaw("Horizontal");
+        }
+        else if (Input.GetAxisRaw("Vertical") != 0)
+        {
+            change.y = Input.GetAxisRaw("Vertical");
+        }
+
         if (currentState == PlayerState.walk)
         {
             UpdateAnimAndMove();
@@ -42,7 +50,6 @@ public class PlayerMovement : MonoBehaviour
     }
 
 
-    
     void UpdateAnimAndMove()
     {
         if (change != Vector3.zero)
@@ -62,7 +69,7 @@ public class PlayerMovement : MonoBehaviour
     {
         change.Normalize();
         myRigidbody2D.MovePosition(
-            transform.position + change * speed * Time.deltaTime
+            transform.position + Time.deltaTime * change * speed
         );
     }
 }
