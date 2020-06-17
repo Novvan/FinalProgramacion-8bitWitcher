@@ -8,13 +8,6 @@ public class MainMenu : MonoBehaviour
         Debug.Log("Load next level");
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
     }
-
-    public void OptionsMenu()
-    {
-        
-    }
-    
-
     public void QuitGame()
     {
         Debug.Log("Quit");
