@@ -10,7 +10,6 @@ public class MainManager : MonoBehaviour
     public int[] aristas_destino;
     public int[] aristas_pesos;
 
-    /* ELEMENTOS DE UNITY */
     public List<int> caminoSeleccionado = new List<int>();
     public bool calculandoCamino;
     public Text textoResultado;
@@ -18,22 +17,17 @@ public class MainManager : MonoBehaviour
     public Transform parentSelector;
     public List<GameObject> selectores = new List<GameObject>();
     public InputField inputOrigen, inputDestino;
-    public List<GameObject> planetas = new List<GameObject>();
+    public List<GameObject> checkpoints = new List<GameObject>();
 
-    // Start is called before the first frame update
-    void Start()
+    public void Start()
     {
         Debug.Log("Programa Iniciado\n");
 
-        // creo la estructura de grafos (estatica)
         grafoEst = new GrafoMA();
 
-        // inicializo TDA
         grafoEst.InicializarGrafo();
 
-        // vector de vértices
         int [] vertices = { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12 };
-        // agrego los vértices
         for (int i = 0; i < vertices.Length; i++)
         {
             grafoEst.AgregarVertice(vertices[i]);
@@ -59,14 +53,8 @@ public class MainManager : MonoBehaviour
             new Arista (11, 12, 4)
         };
 
-        // vector de aristas - vertices origen
-        // int[] aristas_origen = { 1, 2, 1, 3, 3, 5, 6, 4, 8 };
         aristas_origen = new int[aristas.Count];
-        // vector de aristas - vertices destino
-        // int[] aristas_destino = { 2, 1, 3, 5, 4, 6, 5, 6, 10 };
         aristas_destino = new int[aristas.Count];
-        // vector de aristas - pesos
-        // int[] aristas_pesos = { 12, 10, 21, 9, 32, 12, 87, 10, 10 };
         aristas_pesos = new int[aristas.Count];
 
         for(int i=0; i<aristas.Count; i++)
@@ -76,7 +64,6 @@ public class MainManager : MonoBehaviour
             aristas_pesos[i] = aristas[i].peso;
         }
 
-        // agrego las aristas
         Debug.Log("\nAgregando las aristas");
         for (int i = 0; i < aristas_pesos.Length; i++)
         {
@@ -122,10 +109,8 @@ public class MainManager : MonoBehaviour
 
         ResetSeleccion();
 
-        // se llema al algoritmo dijkstra
         AlgoDijkstra.Dijkstra(grafoEst, origen);
 
-        // obtener el camino
         var distancia = string.Empty;
         var nodos = string.Empty;
 
@@ -149,14 +134,13 @@ public class MainManager : MonoBehaviour
             }
         }
 
-        // recorro los nodos/planetas y espawneo un aro de seleccion
         try
         {
-            var indicePlanetas = nodos.Split(',');
-            foreach(string indice in indicePlanetas)
+            var indiceCheckpoints = nodos.Split(',');
+            foreach(string indice in indiceCheckpoints)
             {
-                var planeta = planetas[int.Parse(indice)-1];
-                AccionSpawnSelector(planeta);
+                var checkpoint = checkpoints[int.Parse(indice)-1];
+                AccionSpawnSelector(checkpoint);
             }
         }
         catch
@@ -172,7 +156,7 @@ public class MainManager : MonoBehaviour
         selectores.Add(selector);
     }
 
-    private void LimpiarSelectores()
+    public void LimpiarSelectores()
     {
         foreach(var selector in selectores)
         {
@@ -181,7 +165,7 @@ public class MainManager : MonoBehaviour
         selectores.Clear();
     }
 
-    private void ResetSeleccion()
+    public void ResetSeleccion()
     {
         caminoSeleccionado.Clear();
         LimpiarSelectores();

@@ -19,7 +19,6 @@ using UnityEngine;
         public Nodo sig;
     }
 
-    // IMPLEMENTACIÓN DINÁMICA //
     public class ConjuntoLD : ConjuntoTDA
     {
         Nodo c;
@@ -34,7 +33,6 @@ using UnityEngine;
         }
         public void Agregar(int x)
         {
-            /* Verifica que x no este en el conjunto */
             if (!this.Pertenece(x))
             {
                 Nodo aux = new Nodo();
@@ -51,7 +49,6 @@ using UnityEngine;
         {
             if (c != null)
             {
-                // si es el primer elemento de la lista
                 if (c.info == x)
                 {
                     c = c.sig;
@@ -77,7 +74,6 @@ using UnityEngine;
         }
     }
 
-    // IMPLEMENTACIÓN ESTÁTICA //
     public class ConjuntoTA : ConjuntoTDA
     {
         int[] a;
