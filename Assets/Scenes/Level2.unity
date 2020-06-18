@@ -237,8 +237,8 @@ MonoBehaviour:
     m_DisabledTrigger: Disabled
   m_Interactable: 1
   m_TargetGraphic: {fileID: 12713049}
-  m_TextComponent: {fileID: 693546509}
-  m_Placeholder: {fileID: 850442798}
+  m_TextComponent: {fileID: 1936429190}
+  m_Placeholder: {fileID: 400635824}
   m_ContentType: 0
   m_InputType: 0
   m_AsteriskChar: 42
@@ -295,7 +295,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -354.6, y: -279.7}
+  m_AnchoredPosition: {x: -357.3, y: -279.7}
   m_SizeDelta: {x: 23.37, y: 34.72}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &15402929
@@ -380,16 +380,16 @@ RectTransform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 17026982}
-  m_LocalRotation: {x: -0, y: -0, z: 0.2651313, w: -0.9642123}
-  m_LocalPosition: {x: 0, y: 0, z: 0.000083160405}
+  m_LocalRotation: {x: -0, y: -0, z: 0.32429048, w: -0.9459576}
+  m_LocalPosition: {x: 0, y: 0, z: 0.00017284609}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1669056448}
   m_RootOrder: 5
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: -30.750002}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: -37.845}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 426.7, y: -129.4}
+  m_AnchoredPosition: {x: 400, y: -114}
   m_SizeDelta: {x: 96.86, y: 20.46}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &17026984
@@ -546,7 +546,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -270.95, y: -257.2}
+  m_AnchoredPosition: {x: -280.9, y: -250.4}
   m_SizeDelta: {x: 33.32, y: 34.72}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &43449752
@@ -617,7 +617,7 @@ GameObject:
   - component: {fileID: 84364865}
   - component: {fileID: 84364864}
   m_Layer: 5
-  m_Name: Planeta 4
+  m_Name: Checkpoint 4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -632,14 +632,14 @@ RectTransform:
   m_GameObject: {fileID: 84364862}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 0.1, y: 0.1, z: 1}
+  m_LocalScale: {x: 0.3, y: 0.3, z: 1}
   m_Children: []
   m_Father: {fileID: 1773458305}
-  m_RootOrder: 2
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -333, y: -274.2}
+  m_AnchoredPosition: {x: -342.7, y: -270.6}
   m_SizeDelta: {x: 40, y: 40}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &84364864
@@ -833,7 +833,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -149.4, y: -248.02}
+  m_AnchoredPosition: {x: -163.97, y: -250.40001}
   m_SizeDelta: {x: 36.46, y: 34.72}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &377545689
@@ -916,16 +916,16 @@ RectTransform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 392186077}
-  m_LocalRotation: {x: -0, y: -0, z: 0.023821825, w: -0.9997162}
-  m_LocalPosition: {x: 0, y: 0, z: 0.000083160405}
+  m_LocalRotation: {x: -0, y: -0, z: -0.0061448715, w: 0.99998116}
+  m_LocalPosition: {x: 0, y: 0, z: 0.00017284609}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1669056448}
   m_RootOrder: 3
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: -2.73}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: -0.70400006}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 224.7, y: -18.6}
+  m_AnchoredPosition: {x: 203, y: -15}
   m_SizeDelta: {x: 102.16, y: 15.83}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &392186079
@@ -976,7 +976,7 @@ GameObject:
   - component: {fileID: 400635825}
   - component: {fileID: 400635824}
   m_Layer: 0
-  m_Name: Placeholder
+  m_Name: Placeholder Origen
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -998,8 +998,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 3.5, y: -36.8}
-  m_SizeDelta: {x: 100, y: 100}
+  m_AnchoredPosition: {x: -0.00002861, y: 0.000020981}
+  m_SizeDelta: {x: 100, y: 51.08}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &400635824
 MonoBehaviour:
@@ -1078,7 +1078,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -275.93, y: -332.7}
+  m_AnchoredPosition: {x: -280.9, y: -343.21997}
   m_SizeDelta: {x: 23.37, y: 34.72}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &405419880
@@ -1171,7 +1171,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -91.2, y: -314.42}
+  m_AnchoredPosition: {x: -101.8, y: -300.2}
   m_SizeDelta: {x: 33.32, y: 34.72}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &414966813
@@ -1263,7 +1263,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: -3.88}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 179.36, y: -165.69}
+  m_AnchoredPosition: {x: 155, y: -155}
   m_SizeDelta: {x: 167.79, y: 25.36}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &457645739
@@ -1337,7 +1337,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -237.4, y: -225.5}
+  m_AnchoredPosition: {x: -245.4, y: -222.48001}
   m_SizeDelta: {x: 23.37, y: 34.72}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &459865887
@@ -1409,7 +1409,7 @@ GameObject:
   - component: {fileID: 501866461}
   - component: {fileID: 501866460}
   m_Layer: 0
-  m_Name: Text
+  m_Name: Text Destino
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1428,7 +1428,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 0, g: 0, b: 0, a: 1}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
@@ -1442,7 +1442,7 @@ MonoBehaviour:
     m_MaxSize: 40
     m_Alignment: 0
     m_AlignByGeometry: 0
-    m_RichText: 1
+    m_RichText: 0
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 0
     m_LineSpacing: 1
@@ -1471,8 +1471,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 100, y: 100}
+  m_AnchoredPosition: {x: 0, y: -0.015045}
+  m_SizeDelta: {x: 100, y: 52.43}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &521968381
 GameObject:
@@ -40130,7 +40130,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 3.2}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 370.64, y: -166.94}
+  m_AnchoredPosition: {x: 338, y: -156}
   m_SizeDelta: {x: 174.23, y: 19.94}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &525894209
@@ -40203,7 +40203,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: -4.3180003}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 133.9, y: -77.4}
+  m_AnchoredPosition: {x: 113, y: -70}
   m_SizeDelta: {x: 56.61, y: 11.26}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &529651478
@@ -40255,7 +40255,7 @@ GameObject:
   - component: {fileID: 546726207}
   - component: {fileID: 546726206}
   m_Layer: 5
-  m_Name: Planeta 7
+  m_Name: Checkpoint 7
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -40270,14 +40270,14 @@ RectTransform:
   m_GameObject: {fileID: 546726204}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 0.1, y: 0.1, z: 1}
+  m_LocalScale: {x: 0.3, y: 0.3, z: 1}
   m_Children: []
   m_Father: {fileID: 1773458305}
-  m_RootOrder: 5
+  m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -198, y: -235.8}
+  m_AnchoredPosition: {x: -211.6, y: -232.6}
   m_SizeDelta: {x: 40, y: 40}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &546726206
@@ -40350,7 +40350,7 @@ GameObject:
   - component: {fileID: 561263328}
   - component: {fileID: 561263327}
   m_Layer: 5
-  m_Name: Planeta 10
+  m_Name: Checkpoint 10
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -40365,14 +40365,14 @@ RectTransform:
   m_GameObject: {fileID: 561263325}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 0.1, y: 0.1, z: 1}
+  m_LocalScale: {x: 0.3, y: 0.3, z: 1}
   m_Children: []
   m_Father: {fileID: 1773458305}
-  m_RootOrder: 8
+  m_RootOrder: 9
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -202.9, y: -347}
+  m_AnchoredPosition: {x: -217.5, y: -340.7}
   m_SizeDelta: {x: 40, y: 40}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &561263327
@@ -40796,7 +40796,7 @@ GameObject:
   - component: {fileID: 606262827}
   - component: {fileID: 606262826}
   m_Layer: 5
-  m_Name: Planeta 1
+  m_Name: Checkpoint 1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -40811,14 +40811,14 @@ RectTransform:
   m_GameObject: {fileID: 606262824}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 0.1, y: 0.1, z: 1}
+  m_LocalScale: {x: 0.3, y: 0.3, z: 1}
   m_Children: []
   m_Father: {fileID: 1773458305}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -409.7, y: -219.1}
+  m_AnchoredPosition: {x: -406.5, y: -223.5}
   m_SizeDelta: {x: 40, y: 40}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &606262826
@@ -40911,7 +40911,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -407.1, y: -257.2}
+  m_AnchoredPosition: {x: -406.6, y: -244.98001}
   m_SizeDelta: {x: 23.37, y: 34.72}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &650061826
@@ -41003,7 +41003,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 43.9, y: -0.8}
+  m_AnchoredPosition: {x: 31, y: 2}
   m_SizeDelta: {x: 89.76, y: 19.61}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &663787881
@@ -41110,7 +41110,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 
+  m_Text: Calcular
 --- !u!222 &693546510
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -41153,7 +41153,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 329.29, y: -102.3}
+  m_AnchoredPosition: {x: 299, y: -95}
   m_SizeDelta: {x: 81.37, y: 17.44}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &759698308
@@ -41227,7 +41227,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -305.5, y: -285.12}
+  m_AnchoredPosition: {x: -315.2, y: -279.7}
   m_SizeDelta: {x: 23.37, y: 34.72}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &817862189
@@ -41439,7 +41439,7 @@ GameObject:
   - component: {fileID: 828160515}
   - component: {fileID: 828160514}
   m_Layer: 5
-  m_Name: Planeta 6
+  m_Name: Checkpoint 6
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -41454,14 +41454,14 @@ RectTransform:
   m_GameObject: {fileID: 828160512}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 0.1, y: 0.1, z: 1}
+  m_LocalScale: {x: 0.3, y: 0.3, z: 1}
   m_Children: []
   m_Father: {fileID: 1773458305}
-  m_RootOrder: 4
+  m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -280.1, y: -232.6}
+  m_AnchoredPosition: {x: -290.1, y: -232.6}
   m_SizeDelta: {x: 40, y: 40}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &828160514
@@ -41534,7 +41534,7 @@ GameObject:
   - component: {fileID: 840977833}
   - component: {fileID: 840977832}
   m_Layer: 5
-  m_Name: Planeta 11
+  m_Name: Checkpoint 11
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -41549,14 +41549,14 @@ RectTransform:
   m_GameObject: {fileID: 840977830}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 0.1, y: 0.1, z: 1}
+  m_LocalScale: {x: 0.3, y: 0.3, z: 1}
   m_Children: []
   m_Father: {fileID: 1773458305}
-  m_RootOrder: 9
+  m_RootOrder: 10
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -128.7, y: -295.4}
+  m_AnchoredPosition: {x: -144.9, y: -291.2}
   m_SizeDelta: {x: 40, y: 40}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &840977832
@@ -41628,7 +41628,7 @@ GameObject:
   - component: {fileID: 850442799}
   - component: {fileID: 850442798}
   m_Layer: 0
-  m_Name: Placeholder
+  m_Name: Placeholder Destino
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -41690,8 +41690,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0.000030518, y: 0}
-  m_SizeDelta: {x: 110.63, y: 100}
+  m_AnchoredPosition: {x: 0.000030518, y: -0.014973}
+  m_SizeDelta: {x: 110.6, y: 52.43}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &878719534
 GameObject:
@@ -41718,16 +41718,16 @@ RectTransform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 878719534}
-  m_LocalRotation: {x: -0, y: -0, z: 0.058281064, w: -0.99830025}
-  m_LocalPosition: {x: 0, y: 0, z: 0.000083160405}
+  m_LocalRotation: {x: -0, y: -0, z: 0.06643557, w: -0.99779075}
+  m_LocalPosition: {x: 0, y: 0, z: 0.00017284609}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1669056448}
   m_RootOrder: 2
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: -6.682}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: -7.6190004}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 132.6, y: -10.66}
+  m_AnchoredPosition: {x: 111, y: -6}
   m_SizeDelta: {x: 62.67, y: 18.91}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &878719536
@@ -41800,7 +41800,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: -9.508}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 226.6, y: -90.9}
+  m_AnchoredPosition: {x: 200, y: -80}
   m_SizeDelta: {x: 101.12, y: 13.36}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &891786620
@@ -41874,7 +41874,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -349.4, y: -250.4}
+  m_AnchoredPosition: {x: -342.3, y: -244.98}
   m_SizeDelta: {x: 23.37, y: 34.72}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &940889523
@@ -41945,7 +41945,7 @@ GameObject:
   - component: {fileID: 944371967}
   - component: {fileID: 944371966}
   m_Layer: 5
-  m_Name: Planeta 5
+  m_Name: Checkpoint 5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -41960,14 +41960,14 @@ RectTransform:
   m_GameObject: {fileID: 944371964}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 0.1, y: 0.1, z: 1}
+  m_LocalScale: {x: 0.3, y: 0.3, z: 1}
   m_Children: []
   m_Father: {fileID: 1773458305}
-  m_RootOrder: 3
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -338.9, y: -335.4}
+  m_AnchoredPosition: {x: -347.2, y: -331.2}
   m_SizeDelta: {x: 40, y: 40}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &944371966
@@ -42060,7 +42060,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -127.3, y: -353.6}
+  m_AnchoredPosition: {x: -142.4, y: -343.22}
   m_SizeDelta: {x: 23.37, y: 34.72}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &987503852
@@ -42153,8 +42153,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 196.94, y: 57.8}
-  m_SizeDelta: {x: 38.81, y: 51.54}
+  m_AnchoredPosition: {x: 121.1, y: 70.3}
+  m_SizeDelta: {x: 287.2, y: 26.54}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1164584033
 MonoBehaviour:
@@ -42293,12 +42293,12 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 11500000, guid: 228f43cc42211d34ca8a7b678738a8c3, type: 3}
-        m_MethodName: 
+      - m_Target: {fileID: 1891056865}
+        m_MethodName: AccionCalcularCamino
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: 
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
           m_StringArgument: 
@@ -42365,16 +42365,16 @@ RectTransform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1171954633}
-  m_LocalRotation: {x: -0, y: -0, z: 0.7065783, w: -0.70763487}
-  m_LocalPosition: {x: 0, y: 0, z: 0.000083160405}
+  m_LocalRotation: {x: -0, y: -0, z: 0.70142263, w: -0.71274567}
+  m_LocalPosition: {x: 0, y: 0, z: 0.00017284609}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1669056448}
   m_RootOrder: 15
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: -89.914}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: -89.082}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 171.3, y: -49.4}
+  m_AnchoredPosition: {x: 151, y: -42}
   m_SizeDelta: {x: 52.73, y: 14.22}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1171954635
@@ -42448,7 +42448,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -214.03, y: -268.1}
+  m_AnchoredPosition: {x: -206.1, y: -258.78}
   m_SizeDelta: {x: 23.37, y: 34.72}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1194804674
@@ -42540,7 +42540,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: -62.717003}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 66.7, y: -115.5}
+  m_AnchoredPosition: {x: 55, y: -108}
   m_SizeDelta: {x: 80.3, y: 19.62}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1210142232
@@ -42614,7 +42614,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -376.5, y: -213.3}
+  m_AnchoredPosition: {x: -372.77, y: -210.26003}
   m_SizeDelta: {x: 23.37, y: 34.72}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1226728683
@@ -42791,12 +42791,12 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 11500000, guid: 228f43cc42211d34ca8a7b678738a8c3, type: 3}
-        m_MethodName: 
+      - m_Target: {fileID: 1891056865}
+        m_MethodName: AccionResetSelecciones
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: 
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
           m_StringArgument: 
@@ -42863,16 +42863,16 @@ RectTransform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1270343812}
-  m_LocalRotation: {x: -0, y: -0, z: 0.35344356, w: -0.93545586}
-  m_LocalPosition: {x: 0, y: 0, z: 0.000083160405}
+  m_LocalRotation: {x: -0, y: -0, z: 0.32524797, w: -0.9456288}
+  m_LocalPosition: {x: 0, y: 0, z: 0.00017284609}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1669056448}
   m_RootOrder: 4
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: -41.396004}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: -37.961002}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 330.5, y: -56.8}
+  m_AnchoredPosition: {x: 313, y: -44}
   m_SizeDelta: {x: 113.2, y: 12.84}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1270343814
@@ -42936,16 +42936,16 @@ RectTransform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1351600264}
-  m_LocalRotation: {x: -0, y: -0, z: 0.7069589, w: -0.7072547}
-  m_LocalPosition: {x: 0, y: 0, z: 0.000083160405}
+  m_LocalRotation: {x: -0, y: -0, z: 0.6986625, w: -0.7154515}
+  m_LocalPosition: {x: 0, y: 0, z: 0.00012963457}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1669056448}
   m_RootOrder: 12
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: -89.976006}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: -88.64001}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 86.7, y: -36.9}
+  m_AnchoredPosition: {x: 79, y: -31}
   m_SizeDelta: {x: 63.11, y: 11.77}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1351600266
@@ -76007,7 +76007,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -245.4, y: -293.5}
+  m_AnchoredPosition: {x: -252.56, y: -289.1}
   m_SizeDelta: {x: 23.37, y: 34.72}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1618379173
@@ -76100,7 +76100,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -299.3, y: -220.1}
+  m_AnchoredPosition: {x: -315.2, y: -215.68}
   m_SizeDelta: {x: 23.37, y: 34.72}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1648858453
@@ -76220,7 +76220,7 @@ GameObject:
   - component: {fileID: 1703106661}
   - component: {fileID: 1703106660}
   m_Layer: 5
-  m_Name: Planeta 12
+  m_Name: Checkpoint 12
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -76235,14 +76235,14 @@ RectTransform:
   m_GameObject: {fileID: 1703106658}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 0.1, y: 0.1, z: 1}
+  m_LocalScale: {x: 0.3, y: 0.3, z: 1}
   m_Children: []
   m_Father: {fileID: 1773458305}
-  m_RootOrder: 10
+  m_RootOrder: 11
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -58.4, y: -337.3}
+  m_AnchoredPosition: {x: -80.8, y: -331.2}
   m_SizeDelta: {x: 40, y: 40}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1703106660
@@ -76435,7 +76435,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1773458305}
   m_Layer: 5
-  m_Name: Numero planeta
+  m_Name: Checkpoints
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -76453,6 +76453,7 @@ RectTransform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 606262825}
+  - {fileID: 1779337024}
   - {fileID: 1982213972}
   - {fileID: 84364863}
   - {fileID: 944371965}
@@ -76471,6 +76472,99 @@ RectTransform:
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
+--- !u!1 &1779337023
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1779337024}
+  - component: {fileID: 1779337027}
+  - component: {fileID: 1779337026}
+  - component: {fileID: 1779337025}
+  m_Layer: 5
+  m_Name: Checkpoint 2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &1779337024
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1779337023}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 0.3, y: 0.3, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1773458305}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: -378.9, y: -272.6}
+  m_SizeDelta: {x: 40, y: 40}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &1779337025
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1779337023}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e19747de3f5aca642ab2be37e372fb86, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_EffectColor: {r: 0, g: 0, b: 0, a: 0.5}
+  m_EffectDistance: {x: 2, y: 2}
+  m_UseGraphicAlpha: 1
+--- !u!114 &1779337026
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1779337023}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 0.8624314, g: 1, b: 0, a: 1}
+  m_RaycastTarget: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_FontData:
+    m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
+    m_FontSize: 1
+    m_FontStyle: 1
+    m_BestFit: 0
+    m_MinSize: 0
+    m_MaxSize: 40
+    m_Alignment: 0
+    m_AlignByGeometry: 0
+    m_RichText: 1
+    m_HorizontalOverflow: 0
+    m_VerticalOverflow: 0
+    m_LineSpacing: 1
+  m_Text: 2
+--- !u!222 &1779337027
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1779337023}
+  m_CullTransparentMesh: 0
 --- !u!1 &1782626310
 GameObject:
   m_ObjectHideFlags: 0
@@ -76506,7 +76600,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: -57.688004}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 14.6, y: -32.7}
+  m_AnchoredPosition: {x: 9, y: -31}
   m_SizeDelta: {x: 90.02, y: 13.49}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1782626312
@@ -76687,7 +76781,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 3.5990002}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 61.81, y: -74.4}
+  m_AnchoredPosition: {x: 53, y: -67}
   m_SizeDelta: {x: 48.14, y: 19.09}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1871964178
@@ -76761,7 +76855,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -162.4, y: -302.82}
+  m_AnchoredPosition: {x: -170.75, y: -300.2}
   m_SizeDelta: {x: 33.32, y: 34.72}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1886725900
@@ -76860,7 +76954,19 @@ MonoBehaviour:
   selectores: []
   inputOrigen: {fileID: 12713051}
   inputDestino: {fileID: 826220808}
-  planetas: []
+  checkpoints:
+  - {fileID: 1608557290430164, guid: df520848e060ff94292b085fd6e824ef, type: 3}
+  - {fileID: 1608557290430164, guid: df520848e060ff94292b085fd6e824ef, type: 3}
+  - {fileID: 1608557290430164, guid: df520848e060ff94292b085fd6e824ef, type: 3}
+  - {fileID: 1608557290430164, guid: df520848e060ff94292b085fd6e824ef, type: 3}
+  - {fileID: 1608557290430164, guid: df520848e060ff94292b085fd6e824ef, type: 3}
+  - {fileID: 1608557290430164, guid: df520848e060ff94292b085fd6e824ef, type: 3}
+  - {fileID: 1608557290430164, guid: df520848e060ff94292b085fd6e824ef, type: 3}
+  - {fileID: 1608557290430164, guid: df520848e060ff94292b085fd6e824ef, type: 3}
+  - {fileID: 1608557290430164, guid: df520848e060ff94292b085fd6e824ef, type: 3}
+  - {fileID: 1608557290430164, guid: df520848e060ff94292b085fd6e824ef, type: 3}
+  - {fileID: 1608557290430164, guid: df520848e060ff94292b085fd6e824ef, type: 3}
+  - {fileID: 1608557290430164, guid: df520848e060ff94292b085fd6e824ef, type: 3}
 --- !u!4 &1891056866
 Transform:
   m_ObjectHideFlags: 0
@@ -76909,7 +77015,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 86.323006}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 279.5, y: -138}
+  m_AnchoredPosition: {x: 257, y: -128}
   m_SizeDelta: {x: 61.01, y: 19.45}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1923518050
@@ -76960,7 +77066,7 @@ GameObject:
   - component: {fileID: 1936429191}
   - component: {fileID: 1936429190}
   m_Layer: 0
-  m_Name: Text
+  m_Name: Text Origen
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -76982,8 +77088,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 100, y: 100}
+  m_AnchoredPosition: {x: 0, y: -0.000019073}
+  m_SizeDelta: {x: 100, y: 51.08}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1936429190
 MonoBehaviour:
@@ -76998,7 +77104,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 0, g: 0, b: 0, a: 1}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
@@ -77012,7 +77118,7 @@ MonoBehaviour:
     m_MaxSize: 40
     m_Alignment: 0
     m_AlignByGeometry: 0
-    m_RichText: 1
+    m_RichText: 0
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 0
     m_LineSpacing: 1
@@ -77035,7 +77141,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1948024711}
   m_Layer: 5
-  m_Name: Planetas
+  m_Name: Checkpoints
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -77057,7 +77163,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 479.75, y: 540.16}
+  m_AnchoredPosition: {x: -102, y: 440.16}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &1982096868
@@ -77166,7 +77272,7 @@ GameObject:
   - component: {fileID: 1982213974}
   - component: {fileID: 1982213973}
   m_Layer: 5
-  m_Name: Planeta 3
+  m_Name: Checkpoint 3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -77181,14 +77287,14 @@ RectTransform:
   m_GameObject: {fileID: 1982213971}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 0.1, y: 0.1, z: 1}
+  m_LocalScale: {x: 0.3, y: 0.3, z: 1}
   m_Children: []
   m_Father: {fileID: 1773458305}
-  m_RootOrder: 1
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -334.3, y: -223.1}
+  m_AnchoredPosition: {x: -342.7, y: -221.5}
   m_SizeDelta: {x: 40, y: 40}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1982213973
@@ -77259,7 +77365,7 @@ GameObject:
   - component: {fileID: 2046467252}
   - component: {fileID: 2046467251}
   m_Layer: 5
-  m_Name: Planeta 8
+  m_Name: Checkpoint 8
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -77274,14 +77380,14 @@ RectTransform:
   m_GameObject: {fileID: 2046467249}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 0.1, y: 0.1, z: 1}
+  m_LocalScale: {x: 0.3, y: 0.3, z: 1}
   m_Children: []
   m_Father: {fileID: 1773458305}
-  m_RootOrder: 6
+  m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -280.1, y: -279.3}
+  m_AnchoredPosition: {x: -290.1, y: -275.8}
   m_SizeDelta: {x: 40, y: 40}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2046467251
@@ -77436,7 +77542,7 @@ GameObject:
   - component: {fileID: 2128422692}
   - component: {fileID: 2128422691}
   m_Layer: 5
-  m_Name: Planeta 9
+  m_Name: Checkpoint 9
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -77451,14 +77557,14 @@ RectTransform:
   m_GameObject: {fileID: 2128422689}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 0.1, y: 0.1, z: 1}
+  m_LocalScale: {x: 0.3, y: 0.3, z: 1}
   m_Children: []
   m_Father: {fileID: 1773458305}
-  m_RootOrder: 7
+  m_RootOrder: 8
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -198, y: -295.4}
+  m_AnchoredPosition: {x: -211.6, y: -291.2}
   m_SizeDelta: {x: 40, y: 40}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2128422691
@@ -77550,7 +77656,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: -90.074005}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 282.6, y: -62.34}
+  m_AnchoredPosition: {x: 258, y: -48}
   m_SizeDelta: {x: 67.34, y: 11.64}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2140610097

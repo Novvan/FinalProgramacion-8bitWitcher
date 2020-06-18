@@ -8,14 +8,12 @@ public class AnimacionSeleccion : MonoBehaviour
     public float speed;
     public bool animarInverso;
 
-    // Start is called before the first frame update
     void Start()
     {
         timer = 0;
         speed = animarInverso ? speed*-1 : speed;
     }
 
-    // Update is called once per frame
     void Update()
     {
         if(timer >= 360)
