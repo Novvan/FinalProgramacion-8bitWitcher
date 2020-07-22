@@ -8,7 +8,6 @@ public class Door : MonoBehaviour
 {
 
     [SerializeField] public string LoadScene;
-
     private void OnTriggerEnter2D(Collider2D other)
     {
         if (other.gameObject.CompareTag("Player"))
