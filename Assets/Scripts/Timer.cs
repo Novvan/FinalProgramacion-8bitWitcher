@@ -32,7 +32,7 @@ public class Timer : MonoBehaviour
         finished = true;
         timerText.color = Color.yellow;
 
-        if (Time.time <= 0.01f)
+        if (Time.time <= 2.5f)
         {
             SceneManager.LoadScene("Scenes/BonusLevel", LoadSceneMode.Single);;
         }

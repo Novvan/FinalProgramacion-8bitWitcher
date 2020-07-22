@@ -4108,7 +4108,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8f52b7f75ef14f14b799db1fdcb45ed6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _playerSpawn: {fileID: 897158606}
+  _player: {fileID: 263364930}
   _enemySpawns:
   - {fileID: 152990836}
   - {fileID: 795270744}
@@ -5325,12 +5325,12 @@ PrefabInstance:
     - target: {fileID: 1607399520289957054, guid: 184072e53a0eb224cb6cec9c2191a128,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: 181.329
+      value: 4.1
       objectReference: {fileID: 0}
     - target: {fileID: 1607399520289957054, guid: 184072e53a0eb224cb6cec9c2191a128,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: -40.919
+      value: 0.1
       objectReference: {fileID: 0}
     - target: {fileID: 1607399520289957054, guid: 184072e53a0eb224cb6cec9c2191a128,
         type: 3}
