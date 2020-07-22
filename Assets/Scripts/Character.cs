@@ -32,22 +32,22 @@ public class Character : MonoBehaviour
 
     void Update()
     {
-        if (Input.GetKeyDown(KeyCode.I) && pm.currentState != PlayerState.quen && Stamina.MyCurrentValue > signCost)
+        if (Input.GetKeyDown(KeyCode.Keypad1) && pm.currentState != PlayerState.quen && Stamina.MyCurrentValue > signCost)
         {
             StartCoroutine(Quen());
             Stamina.MyCurrentValue -= signCost;
         }
-        if (Input.GetKeyDown(KeyCode.J) && pm.currentState != PlayerState.igni && Stamina.MyCurrentValue > signCost)
+        if (Input.GetKeyDown(KeyCode.Keypad2) && pm.currentState != PlayerState.igni && Stamina.MyCurrentValue > signCost)
         {
             StartCoroutine(Igni());
             Stamina.MyCurrentValue -= signCost;
         }
-        if (Input.GetKeyDown(KeyCode.K) && pm.currentState != PlayerState.aard && Stamina.MyCurrentValue > signCost)
+        if (Input.GetKeyDown(KeyCode.Keypad3) && pm.currentState != PlayerState.aard && Stamina.MyCurrentValue > signCost)
         {
             StartCoroutine(Aard());
             Stamina.MyCurrentValue -= signCost;
         }
-        if (Input.GetKeyDown(KeyCode.L) && pm.currentState != PlayerState.yrden && Stamina.MyCurrentValue > signCost)
+        if (Input.GetKeyDown(KeyCode.Keypad4) && pm.currentState != PlayerState.yrden && Stamina.MyCurrentValue > signCost)
         {
             StartCoroutine(Yrden());
             Stamina.MyCurrentValue -= signCost;
