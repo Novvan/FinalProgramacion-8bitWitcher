@@ -9,14 +9,12 @@ public class Tab : MonoBehaviour
     private bool _active;
     [SerializeField] private GameManager _gm;
     private GameObject _panelHP;
-    private GameObject[] _enemyArray;
     private List<GameObject> _enemyList;
 
     private void Start()
     {
         _panelHP = this.transform.Find("HP Panel").gameObject;
         _active = false;
-        _enemyArray = _gm.EnemyArray;
         _enemyList = _gm.EnemyList;
     }
 
@@ -27,9 +25,9 @@ public class Tab : MonoBehaviour
         for (int i = 0; i < _enemyList.Count; i++)
         {
             GameObject Enemylabel = _panelHP.transform.GetChild(i).gameObject;
-            Enemylabel.GetComponent<EnemyRow>().changeText(0, (i + 1).ToString());
-            Enemylabel.GetComponent<EnemyRow>().changeText(1, _enemyList[i].GetComponent<wood_enemy>().dist.ToString());
-            Enemylabel.GetComponent<EnemyRow>().changeText(2, _enemyList[i].GetComponent<wood_enemy>().Health.ToString()); 
+            Enemylabel.GetComponent<EnemyRow>().ChangeText(0, (i + 1).ToString());
+            Enemylabel.GetComponent<EnemyRow>().ChangeText(1, _enemyList[i].GetComponent<wood_enemy>().dist.ToString());
+            Enemylabel.GetComponent<EnemyRow>().ChangeText(2, _enemyList[i].GetComponent<wood_enemy>().Health.ToString()); 
         }
 
         if (Input.GetKeyDown(KeyCode.V))
