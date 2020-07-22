@@ -18,15 +18,19 @@ public class GameManager : MonoBehaviour
 
     void Start()
     {
-        for (int i = 0; i < _enemySpawns.Count; i++)
+        if (_enemySpawns.Count != 0)
         {
-            _enemy.GetComponent<wood_enemy>().playerSpawn = _playerSpawn;
-            GameObject wood = Instantiate(_enemy, _enemySpawns[i].transform);
-            _enemyList.Add(wood);
+            for (int i = 0; i < _enemySpawns.Count; i++)
+            {
+                _enemy.GetComponent<wood_enemy>().playerSpawn = _playerSpawn;
+                GameObject wood = Instantiate(_enemy, _enemySpawns[i].transform);
+                _enemyList.Add(wood);
+            }
+            _enemyArray = new GameObject[_enemyList.Count];
+            _enemyArray = _enemyList.ToArray();
+            QuickSort(_enemyList, 0, _enemyList.Count - 1);
         }
-        _enemyArray = new GameObject[_enemyList.Count];
-        _enemyArray = _enemyList.ToArray();
-        QuickSort(_enemyList, 0, _enemyList.Count - 1);
+        
         //QuickSort(_enemyArray, 0, _enemyList.Count - 1);
     }
     
@@ -68,7 +72,7 @@ public class GameManager : MonoBehaviour
         int i, j, center;
         GameObject pivot;
         center = (start + end) / 2;
-        Debug.Log(center);
+        //Debug.Log(center);
         pivot = list[center];
         i = start;
         j = end;
