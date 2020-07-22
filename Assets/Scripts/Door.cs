@@ -10,10 +10,9 @@ public class Door : MonoBehaviour
     [SerializeField] public string LoadScene;
     private void OnTriggerEnter2D(Collider2D other)
     {
-        GameObject.Find("Player").SendMessage("Finish");
-        if (other.gameObject.CompareTag("player"))
+        if (other.gameObject.CompareTag("Player"))
         {
-            SceneManager.LoadScene(LoadScene, LoadSceneMode.Single);
+            other.SendMessage("Finish");
         }
     }
 }

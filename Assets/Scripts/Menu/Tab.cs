@@ -24,7 +24,7 @@ public class Tab : MonoBehaviour
     void Update()
     {
         
-        for (int i = 0; i < 10; i++)
+        for (int i = 0; i < _enemyList.Count; i++)
         {
             GameObject Enemylabel = _panelHP.transform.GetChild(i).gameObject;
             Enemylabel.GetComponent<EnemyRow>().changeText(0, (i + 1).ToString());
