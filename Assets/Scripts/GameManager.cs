@@ -14,6 +14,8 @@ public class GameManager : MonoBehaviour
     public GameObject[] EnemyArray => _enemyArray;
     public List<GameObject> EnemyList => _enemyList;
 
+    public bool isAlive = true;
+
     void Start()
     {
         for (int i = 0; i < _enemySpawns.Count; i++)
@@ -27,41 +29,6 @@ public class GameManager : MonoBehaviour
         //QuickSort(_enemyList, 0, _enemyList.Count - 1);
         QuickSort(_enemyArray, 0, _enemyList.Count - 1);
     }
-
-    // static public void QuickSort(List<GameObject> list, int start, int end)
-    // {
-    //     int i, j, center;
-    //     GameObject pivot;
-    //     center = (start + end) / 2;
-    //     Debug.Log(center);
-    //     pivot = list[center];
-    //     i = start;
-    //     j = end;
-    //     do
-    //     {
-    //         while (list[i].GetComponent<wood_enemy>().dist < pivot.GetComponent<wood_enemy>().dist) i++;
-    //         while (list[j].GetComponent<wood_enemy>().dist > pivot.GetComponent<wood_enemy>().dist) j--;
-    //         if (i <= j)
-    //         {
-    //             GameObject temp;
-    //             temp = list[i];
-    //             list[i] = list[j];
-    //             list[j] = temp;
-    //             i++;
-    //             j--;
-    //         }
-    //     } while (i <= j);
-    //
-    //     if (start < j)
-    //     {
-    //         QuickSort(list, start, j);
-    //     }
-    //
-    //     if (i < end)
-    //     {
-    //         QuickSort(list, i, end);
-    //     }
-    // }
     
     static public void QuickSort(GameObject[] array, int start, int end)
     {
