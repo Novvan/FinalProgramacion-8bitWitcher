@@ -70,30 +70,6 @@ public class MainManager : MonoBehaviour
             grafoEst.AgregarArista(aristas_origen[i], aristas_destino[i], aristas_pesos[i]);
         }
 
-        // Debug.Log("\nListado de Etiquetas de los nodos");
-        // for (int i = 0; i < grafoEst.Etiqs.Length; i++)
-        // {
-        //     if (grafoEst.Etiqs[i] != 0)
-        //     {
-        //         Debug.Log("Nodo: " + grafoEst.Etiqs[i].ToString());
-        //     }
-        // }
-
-        // Debug.Log("\nListado de Aristas (Inicio, Fin, Peso)");
-        // for (int i = 0; i < grafoEst.cantNodos; i++)
-        // {
-        //     for (int j = 0; j < grafoEst.cantNodos; j++)
-        //     {
-        //         if (grafoEst.MAdy[i, j] != 0)
-        //         {
-        //             // obtengo la etiqueta del nodo origen, que está en las filas (i)
-        //             int nodoIni = grafoEst.Etiqs[i];
-        //             // obtengo la etiqueta del nodo destino, que está en las columnas (j)
-        //             int nodoFin = grafoEst.Etiqs[j];
-        //             Debug.Log(nodoIni.ToString() + ", " + nodoFin.ToString() + ", " + grafoEst.MAdy[i, j].ToString());
-        //         }
-        //     }
-        // }
     }
 
     public void AccionResetSelecciones()
