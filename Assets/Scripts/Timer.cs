@@ -34,7 +34,11 @@ public class Timer : MonoBehaviour
 
         if (Time.time <= 5)
         {
-            SceneManager.LoadScene(levelToLoad);
+            SceneManager.LoadScene("Scenes/BonusLevel", LoadSceneMode.Single);;
+        }
+        else
+        {
+            SceneManager.LoadScene("Scenes/BossLevel", LoadSceneMode.Single);
         }
     }
 }

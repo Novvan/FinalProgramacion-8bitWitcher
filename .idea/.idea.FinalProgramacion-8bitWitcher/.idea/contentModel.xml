@@ -6,6 +6,21 @@
     <e p="E:\Ian\Documents\UnityProjects\FinalProgramacion-8bitWitcher" t="IncludeRecursive">
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
+        <e p="Dijsktra" t="Include">
+          <e p="Scripts" t="Include">
+            <e p="Animaciones" t="Include">
+              <e p="AnimacionLaser.cs" t="Include" />
+              <e p="AnimacionSeleccion.cs" t="Include" />
+            </e>
+            <e p="Grafos" t="Include">
+              <e p="AlgoDijkstra.cs" t="Include" />
+              <e p="Arista.cs" t="Include" />
+              <e p="ConjuntoTDA.cs" t="Include" />
+              <e p="GrafoMA.cs" t="Include" />
+            </e>
+            <e p="MainManager.cs" t="Include" />
+          </e>
+        </e>
         <e p="Parcial1" t="Include">
           <e p="Scripts" t="Include">
             <e p="Enemies" t="Include">
@@ -42,6 +57,7 @@
           </e>
           <e p="PlayerHit.cs" t="Include" />
           <e p="PlayerMovement.cs" t="Include" />
+          <e p="Timer.cs" t="Include" />
           <e p="wood_enemy.cs" t="Include" />
         </e>
         <e p="SuperTiled2Unity" t="Include">
