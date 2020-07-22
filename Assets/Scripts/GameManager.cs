@@ -20,7 +20,6 @@ public class GameManager : MonoBehaviour
     void Start()
     {
         waitingline = new Queue<GameObject>();
-
         if (_enemySpawns.Count != 0)
         {
             for (int i = 0; i < _enemySpawns.Count; i++)
@@ -33,14 +32,13 @@ public class GameManager : MonoBehaviour
             }
             QuickSort(_enemyList, 0, _enemyList.Count - 1);
         }
-
     }
     static public void QuickSort(List<GameObject> list, int start, int end)
     {
         int i, j, center;
         GameObject pivot;
         center = (start + end) / 2;
-        Debug.Log(center);
+        //Debug.Log(center);
         pivot = list[center];
         i = start;
         j = end;
