@@ -30,14 +30,14 @@ public class Queue: MonoBehaviour {
         rand = Random.Range(0, enemies.Count);
         temp = Instantiate(enemies[rand], new UnityEngine.Vector3(-(float)waitingLine.Count / 2, 0, 0), enemies[rand].transform.rotation);
         waitingLine.Enqueue(temp);
-
     }
     public void LineDequeue()
     {
-        temp = (GameObject)waitingLine.Dequeue();
-        GameObject.Destroy(temp);
+        temp = waitingLine.Dequeue();
+        Destroy(temp);
         ResetQueue();
     }
+    
     private void ResetQueue()
     {
         GameObject[] tempList = new GameObject[waitingLine.Count];
