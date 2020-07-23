@@ -61,6 +61,20 @@ public class Character : MonoBehaviour
         Stamina.MyCurrentValue += Time.deltaTime * staminaRegen ;
     }
 
+    private void OnCollisionEnter2D(Collision2D other)
+    {
+        if (other.gameObject.tag == "enemy")
+        {
+            Health.MyCurrentValue -= 30f;
+        }
+
+        if (Health.MyCurrentValue <= 0)
+        {
+            Application.Quit();
+        }
+
+    }
+
 
     //Corrutinas
 
