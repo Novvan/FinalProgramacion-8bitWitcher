@@ -6,7 +6,6 @@
     <e p="E:\Ian\Documents\UnityProjects\FinalProgramacion-8bitWitcher" t="IncludeRecursive">
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
-        <e p="BossTrigger.cs" t="Include" />
         <e p="Dijsktra" t="Include">
           <e p="Scripts" t="Include">
             <e p="Animaciones" t="Include">
@@ -42,6 +41,7 @@
           </e>
         </e>
         <e p="Scripts" t="Include">
+          <e p="BossTrigger.cs" t="Include" />
           <e p="CameraMovement.cs" t="Include" />
           <e p="Character.cs" t="Include" />
           <e p="Door.cs" t="Include" />
@@ -59,6 +59,7 @@
           </e>
           <e p="PlayerHit.cs" t="Include" />
           <e p="PlayerMovement.cs" t="Include" />
+          <e p="StartLevel2.cs" t="Include" />
           <e p="Timer.cs" t="Include" />
           <e p="wood_enemy.cs" t="Include" />
         </e>
