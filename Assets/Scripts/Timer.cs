@@ -32,13 +32,13 @@ public class Timer : MonoBehaviour
         finished = true;
         timerText.color = Color.yellow;
 
-        if (Time.time <= 2.5f)
+        if (Time.time <= 120)
         {
             SceneManager.LoadScene("Scenes/BonusLevel", LoadSceneMode.Single);;
         }
         else
         {
-            SceneManager.LoadScene("Scenes/BossLevel", LoadSceneMode.Single);
+            SceneManager.LoadScene("Scenes/Level2", LoadSceneMode.Single);
         }
     }
 }

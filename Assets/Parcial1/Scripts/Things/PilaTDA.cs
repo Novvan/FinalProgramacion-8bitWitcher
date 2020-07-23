@@ -8,7 +8,7 @@ namespace Things
          void InicializarPila();
  
          // siempre que la pila este inicializada
-         void Apilar(String x);
+         void Apilar(string x);
  
          // siempre que la pila este inicializada y no este vacıa
          void Desapilar();
@@ -17,6 +17,6 @@ namespace Things
          bool PilaVacia();
  
          // siempre que la pila este inicializada y no estw vacia
-         String Tope();
+         string Tope();
      }
  }

@@ -4,50 +4,36 @@ using System.Collections.Generic;
 using Things;
 using UnityEngine;
 
-public class Key : MonoBehaviour {
-    private bool pickUpAllowed;
-    private GameObject _player;
-    [SerializeField]private GameManager _gameManager;
-
-    public GameObject Player
+namespace Things
+{
+    public class Key : MonoBehaviour
     {
-        set => _player = value;
-    }
+        private bool pickUpAllowed;
+        private GameObject _player;
+        public GameManager _gameManager;
 
-    private void Update() {
-        if (pickUpAllowed && Input.GetKeyDown(KeyCode.E))
+        private void Update()
         {
-            Debug.Log("pressed E");
-            
-            PickUp();
+            if (pickUpAllowed && Input.GetKeyDown(KeyCode.E))
+            {
+                Debug.Log("pressed E");
+
+                PickUp();
+            }
+        }
+
+        private void PickUp()
+        {
+            _gameManager.GetComponent<Pila>().Apilar(gameObject.name.Normalize());
+            Destroy(gameObject);
+        }
+
+        private void OnTriggerEnter2D(Collider2D other)
+        {
+            if (other.CompareTag("Player"))
+            {
+                pickUpAllowed = true;
+            }
         }
     }
-
-    private void PickUp()
-    {
-        _gameManager.GetComponent<Pila>().Apilar(gameObject.name.Normalize());
-        Destroy(gameObject);
-    }
-
-    private void OnTriggerEnter2D(Collider2D other)
-    {
-        if (other.CompareTag("Player"))
-        {
-            pickUpAllowed = true;
-            
-        }
-    }
-
-    private void OnTriggerExit2D(Collider2D other)
-    {
-        if (other.CompareTag("Player"))
-        {
-            pickUpAllowed = false;
-        }
-    }
-
-    
-  
-
 }
-
