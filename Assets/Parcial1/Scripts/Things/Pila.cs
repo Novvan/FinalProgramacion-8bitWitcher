@@ -3,9 +3,9 @@ using UnityEngine;
 
 namespace Things
 {
-    public class Pila : MonoBehaviour, PilaTDA
+    public class Pila : PilaTDA
     {
-        String[] a; // arreglo en donde se guarda la informacion
+        string[] a; // arreglo en donde se guarda la informacion
         int i; // variable entera en donde se guarda la cantidad de elementos que se tienen guardados
 
         public void InicializarPila()
@@ -13,7 +13,7 @@ namespace Things
             i = 0;
         }
 
-        public void Apilar(String key)
+        public void Apilar(string key)
         {
             i++;
             a[i] = key;
@@ -29,7 +29,7 @@ namespace Things
             return (i == 0);
         }
 
-        public String Tope()
+        public string Tope()
         {
             return a[i - 1];
         }
