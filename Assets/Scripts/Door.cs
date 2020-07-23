@@ -8,6 +8,7 @@ using UnityEngine.SceneManagement;
 public class Door : MonoBehaviour
 {
     public GameManager GameManager;
+
     private void OnTriggerEnter2D(Collider2D other)
     {
         if (other.gameObject.CompareTag("Player"))
@@ -15,11 +16,11 @@ public class Door : MonoBehaviour
             //if (GameManager.Pila.Cantidad() == 3) 
             if (GameManager.Stack.Count == 3)
             {
-                 other.SendMessage("Finish");
+                other.SendMessage("Finish");
             }
             else
             {
-                Debug.Log("Faltan llaves, cantidad momentaria = "+ GameManager.Stack.Count);
+                Debug.Log("Faltan " + (3 - GameManager.Stack.Count) + " llaves");
             }
         }
     }

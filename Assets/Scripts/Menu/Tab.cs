@@ -8,32 +8,26 @@ public class Tab : MonoBehaviour
 {
     private bool _active;
     [SerializeField] private GameManager _gm;
-    private GameObject _panelHP;
+    public GameObject _panelHP;
     private List<GameObject> _enemyList;
-
-    private void Start()
+    private bool _listupdated;
+    private void Update()
     {
-        _panelHP = this.transform.Find("HP Panel").gameObject;
-        _active = false;
         _enemyList = _gm.EnemyList;
+        _updateList(_enemyList);
     }
-
-
-    void Update()
+    private void _updateList(List<GameObject> el)
     {
-        
-        for (int i = 0; i < _enemyList.Count; i++)
+        if (el.Count > 0 && !_listupdated)
         {
-            GameObject Enemylabel = _panelHP.transform.GetChild(i).gameObject;
-            Enemylabel.GetComponent<EnemyRow>().ChangeText(0, (i + 1).ToString());
-            Enemylabel.GetComponent<EnemyRow>().ChangeText(1, _enemyList[i].GetComponent<wood_enemy>().dist.ToString());
-            Enemylabel.GetComponent<EnemyRow>().ChangeText(2, _enemyList[i].GetComponent<wood_enemy>().Health.ToString()); 
-        }
-
-        if (Input.GetKeyDown(KeyCode.V))
-        {
-            _panelHP.SetActive(!_active);
-            _active = !_active;
+            for (int i = 0; i < 3; i++)
+            {
+                GameObject Enemylabel = _panelHP.transform.GetChild(i).gameObject;
+                Enemylabel.GetComponent<EnemyRow>().ChangeText(0, (i + 1).ToString());
+                Enemylabel.GetComponent<EnemyRow>().ChangeText(1, el[i].GetComponent<wood_enemy>().dist.ToString());
+                Enemylabel.GetComponent<EnemyRow>().ChangeText(2, el[i].GetComponent<wood_enemy>().Health.ToString());
+                _listupdated = false;
+            }     
         }
     }
 }

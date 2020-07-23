@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using Things;
 using UnityEngine;
 
-public class DoorKey : MonoBehaviour
+public class DoorKey: MonoBehaviour
 {
     public GameManager gameManager;
     private void OnTriggerEnter2D(Collider2D other)
