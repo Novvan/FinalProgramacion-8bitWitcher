@@ -34,7 +34,7 @@ public class MainManager : MonoBehaviour
         }
 
         List<Arista> aristas = new List<Arista>{
-            new Arista (1, 2, 8),
+           new Arista (1, 2, 8),
             new Arista (1, 3, 2),
             new Arista (2, 4, 4),
             new Arista (2, 5, 9),
