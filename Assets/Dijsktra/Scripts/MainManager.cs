@@ -34,22 +34,10 @@ public class MainManager : MonoBehaviour
         }
 
         List<Arista> aristas = new List<Arista>{
-           new Arista (1, 2, 8),
             new Arista (1, 3, 2),
-            new Arista (2, 4, 4),
-            new Arista (2, 5, 9),
-            new Arista (3, 4, 3),
             new Arista (3, 6, 5),
-            new Arista (4, 8, 3),
-            new Arista (5, 10, 7),
             new Arista (6, 7, 1),
-            new Arista (6, 8, 2),
-            new Arista (7, 9, 9),
             new Arista (7, 11, 15),
-            new Arista (8, 9, 6),
-            new Arista (9, 11, 11),
-            new Arista (10, 9, 1),
-            new Arista (10, 12, 8),
             new Arista (11, 12, 4)
         };
 
@@ -70,6 +58,7 @@ public class MainManager : MonoBehaviour
             grafoEst.AgregarArista(aristas_origen[i], aristas_destino[i], aristas_pesos[i]);
         }
 
+        AccionCalcularCamino(1, 12);
     }
 
     public void AccionResetSelecciones()
@@ -78,10 +67,10 @@ public class MainManager : MonoBehaviour
         calculandoCamino = false;
     }
 
-    public void AccionCalcularCamino()
+    public void AccionCalcularCamino( int origen, int destino )
     {
-        var origen = int.Parse(inputOrigen.text);
-        var destino = int.Parse(inputDestino.text);
+        //var origen = int.Parse(inputOrigen.text);
+        //var destino = int.Parse(inputDestino.text);
 
         ResetSeleccion();
 

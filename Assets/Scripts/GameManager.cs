@@ -26,7 +26,6 @@ public class GameManager : MonoBehaviour
     private void Awake()
     {
         _stack = new Stack();
-
         _pila = new Pila();
         _pila.InicializarPila();
         waitingline = new Queue<GameObject>();
@@ -81,7 +80,7 @@ public class GameManager : MonoBehaviour
             QuickSort(list, i, end);
         }
     }
-    
+
     public void LineEnqueue()
     {
         var temp = Instantiate(_enemy, _enemySpawns[2].transform);
@@ -93,16 +92,15 @@ public class GameManager : MonoBehaviour
         Destroy(temp);
         ResetQueue();
     }
-    
+
     private void ResetQueue()
     {
         GameObject[] tempList = new GameObject[waitingline.Count];
         waitingline.CopyTo(tempList, 0);
 
-        for(int x=0; x < tempList.Length; x++)
+        for (int x = 0; x < tempList.Length; x++)
         {
             tempList[x].transform.position = new Vector2(-(float)x / 2, 0);
         }
-    }
-    
+    } 
 }

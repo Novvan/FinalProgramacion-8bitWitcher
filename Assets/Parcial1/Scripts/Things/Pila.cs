@@ -18,7 +18,6 @@ namespace Things
             i++;
             a[i] = key;
         }
-
         public void Desapilar()
         {
             i--;
