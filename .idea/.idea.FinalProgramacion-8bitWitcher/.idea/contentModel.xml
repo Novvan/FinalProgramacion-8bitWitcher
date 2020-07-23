@@ -41,9 +41,11 @@
           </e>
         </e>
         <e p="Scripts" t="Include">
+          <e p="BossTrigger.cs" t="Include" />
           <e p="CameraMovement.cs" t="Include" />
           <e p="Character.cs" t="Include" />
           <e p="Door.cs" t="Include" />
+          <e p="Doorkey.cs" t="Include" />
           <e p="Enemy.cs" t="Include" />
           <e p="FillerHandler.cs" t="Include" />
           <e p="GameManager.cs" t="Include" />
@@ -57,6 +59,7 @@
           </e>
           <e p="PlayerHit.cs" t="Include" />
           <e p="PlayerMovement.cs" t="Include" />
+          <e p="StartLevel2.cs" t="Include" />
           <e p="Timer.cs" t="Include" />
           <e p="wood_enemy.cs" t="Include" />
         </e>

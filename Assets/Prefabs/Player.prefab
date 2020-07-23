@@ -458,6 +458,7 @@ MonoBehaviour:
   - {fileID: -7859544607282556093, guid: 26f1d7992aa74e2b09b3dc5cab4e1623, type: 3}
   - {fileID: -8154498446710104070, guid: 26f1d7992aa74e2b09b3dc5cab4e1623, type: 3}
   InitHealth: 100
+  CurrentHealth: 0
   InitStamina: 50
   signCost: 10
   healthRegen: 5

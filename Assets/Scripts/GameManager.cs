@@ -2,7 +2,9 @@
 using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
+using Things;
 using UnityEngine;
+using UnityEngine.Experimental.AI;
 
 public class GameManager : MonoBehaviour
 {
@@ -14,21 +16,33 @@ public class GameManager : MonoBehaviour
     public GameObject[] EnemyArray => _enemyArray;
     public List<GameObject> EnemyList => _enemyList;
     public Queue<GameObject> waitingline;
-    
+    private Pila _pila;
+    private Stack _stack;
+    public Pila Pila => _pila;
+    public Stack Stack => _stack;
+
     public bool isAlive = true;
 
-    void Start()
+    private void Awake()
     {
+        _stack = new Stack();
+
+        _pila = new Pila();
+        _pila.InicializarPila();
         waitingline = new Queue<GameObject>();
+    }
+
+    private void Start()
+    {
         if (_enemySpawns.Count != 0)
         {
             for (int i = 0; i < _enemySpawns.Count; i++)
             {
                 GameObject wood = Instantiate(_enemy, _enemySpawns[i].transform);
-                Debug.Log("Spawn");
                 _enemyList.Add(wood);
                 _enemyList[i].GetComponent<wood_enemy>().playerSpawn = _player;
                 waitingline.Enqueue(wood);
+                Debug.Log("Spawn");
             }
             QuickSort(_enemyList, 0, _enemyList.Count - 1);
         }

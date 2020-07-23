@@ -21,7 +21,7 @@ public class MainManager : MonoBehaviour
 
     public void Start()
     {
-        Debug.Log("Programa Iniciado\n");
+        //Debug.Log("Programa Iniciado\n");
 
         grafoEst = new GrafoMA();
 
@@ -64,7 +64,7 @@ public class MainManager : MonoBehaviour
             aristas_pesos[i] = aristas[i].peso;
         }
 
-        Debug.Log("\nAgregando las aristas");
+        //Debug.Log("\nAgregando las aristas");
         for (int i = 0; i < aristas_pesos.Length; i++)
         {
             grafoEst.AgregarArista(aristas_origen[i], aristas_destino[i], aristas_pesos[i]);
